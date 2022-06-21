@@ -3,6 +3,8 @@
 Qewed is a social media based app, where you can share your favorite songs with the world. Explore other users’ posts, or create your own. 
 <br />  
 Any feedback and/or suggestions are welcomed! Thank you for checking out my project.
+<br />  
+** Resolve packages prior to running on device or simulator **
 
 ## Skills Used
 - SwiftUI
